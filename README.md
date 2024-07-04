@@ -1,9 +1,11 @@
-Project Overview
+Project Overview:
+
 The goal of this project is to develop a machine learning model that accurately classifies iris flowers into one of three species based on their sepal length, sepal width, petal length, and petal width. 
 
 This project demonstrates the process of data loading, exploratory data analysis (EDA), model training, evaluation, and selection.
 
-Dataset
+Dataset:
+
 The dataset used in this project is the famous Iris dataset, which contains 150 samples of iris flowers. Each sample includes four features:
 
 Sepal length
@@ -17,7 +19,8 @@ Iris-versicolor
 Iris-virginica
 The dataset can be found in the data directory.
 
-Installation
+Installation:
+
 To run this project, you need to have Python and the following libraries installed:
 
 pandas
@@ -26,7 +29,8 @@ matplotlib
 seaborn
 scikit-learn
 
-Model Evaluation
+Model Evaluation:
+
 The following machine learning models were evaluated:
 
 Logistic Regression
@@ -35,5 +39,6 @@ Random Forest Classifier
 Support Vector Machine (SVM)
 The models were evaluated based on accuracy, precision, recall, and F1-score.
 
-Results
+Results:
+
 The Logistic Regression achieved the highest accuracy of 93%. 
